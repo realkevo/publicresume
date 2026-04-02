@@ -1,4 +1,3 @@
-
 <h1 align="center">Kelvin Thuranira Mburung'a</h1>
 <h3 align="center">Android Developer (4+ Years) | Flutter | AI & Offline-First Systems</h3>
 
@@ -51,7 +50,10 @@ I specialize in offline-first systems, AI-powered features, and production-ready
 
 <h2>Education</h2>
 <ul>
-  <li>Diploma in Computer Science — 2018</li>
+  <li>
+    Diploma in Information Technology — Meru University of Science and Technology, 2018  
+    (<a href="https://www.mediafire.com/file/sv3tcu2puxa9y5g/DIPcert.pdf/file">Certificate</a>)
+  </li>
 </ul>
 
 <h2>Achievements & Certifications</h2>
@@ -99,3 +101,11 @@ Flutter Android app using TensorFlow Lite for offline image analysis, OCR, and s
 <p align="center">
 <i>Build systems that work offline, scale reliably, and solve real problems.</i>
 </p>
+
+<hr>
+
+<h2>References</h2>
+<ul>
+  <li>GitHub Profile — <a href="https://github.com/realkevo">https://github.com/realkevo</a></li>
+  <li>Moja Expressway HR Contact — 0769 252297</li>
+</ul>
