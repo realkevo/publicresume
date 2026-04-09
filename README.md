@@ -34,7 +34,6 @@ Android developer with 4+ years of experience building scalable, high-performanc
 
 ## Work History
 - **Freelance Developer** — 2024 to Present
-- **Toll Attendant – Moja Expressway** — 2022 to Present
 - **Trainer – Tala Technical Institute** — 2022
 - **Network Administrator Intern** — 2021
 
