@@ -1,4 +1,4 @@
-# Kelvin Thuranira Resume
+#  Resume
 ### Android Developer (4+ Years) | Flutter | AI & Offline-First Systems
 
 [Email](mailto:kelvinthuranira591@gmail.com) • [Portfolio](https://kpotfolio.web.app) • [LinkedIn](https://www.linkedin.com/in/kelvin-thuranira-485844231) • [Download PDF Resume](https://www.mediafire.com/file/vo9zm1omxehdbir/KELVIN_RESUME_%25281%2529.pdf/file)
@@ -22,11 +22,10 @@ Android developer with 4+ years of experience building scalable, high-performanc
 ---
 
 ## Other Skills
-- Customer Service (Experience as Toll Attendant)
-- Good Communication Skills (Experience as Teacher)
-- Typing Speed: Fast & Accurate
-- Networking Skills (HTTP, SNI, Proxies)
-- Network Administration (Internal College Networks)
+- Customer Service 
+- Good Communication Skills 
+- TouchTyping
+- Network Administration 
 - Svelte Web Development
 - Figma & UI/UX Design
 
@@ -34,18 +33,12 @@ Android developer with 4+ years of experience building scalable, high-performanc
 
 ## Work History
 - **Freelance Developer** — 2024 to Present
-- **Trainer – Tala Technical Institute** — 2022
-- **Network Administrator Intern** — 2021
+  
+
 
 ---
 
-## Education
-- **Diploma in Information Technology** — Meru University of Science and Technology, 2018  
-  [Certificate](https://www.mediafire.com/file/sv3tcu2puxa9y5g/DIPcert.pdf/file)
-
----
-
-## Achievements & Certifications
+## Certifications
 - GitHub Certificate — [View](https://www.mygreatlearning.com/certificate/JGASKNTK)  
 - Linux Fundamentals — [View](https://www.mygreatlearning.com/certificate/AYCIRGTP)  
 - Java Networking — [View](https://www.mygreatlearning.com/certificate/KSXSHFTZ)  
@@ -77,4 +70,4 @@ Android (Java/XML) app for digitizing toll operations.
 
 ## References
 - GitHub Profile — [https://github.com/realkevo](https://github.com/realkevo)  
-- Moja Expressway HR Contact — 0769 252297
+
