@@ -1,9 +1,7 @@
 #  Resume
 ### Android Developer (4+ Years) | Flutter | AI & Offline-First Systems
 
-[Email](mailto:kelvinthuranira591@gmail.com) • [Portfolio](https://kpotfolio.web.app) • [LinkedIn](https://www.linkedin.com/in/kelvin-thuranira-485844231) • [Download PDF Resume](https://www.mediafire.com/file/vo9zm1omxehdbir/KELVIN_RESUME_%25281%2529.pdf/file)
-
----
+[Email](mailto:kelvinthuranira591@gmail.com) • [Portfolio](https://kpotfolio.web.app) • [LinkedIn](https://www.linkedin.com/in/kelvin-thuranira-485844231) 
 
 ## About Me
 Android developer with 4+ years of experience building scalable, high-performance mobile applications using Flutter and native Android technologies. I specialize in offline-first systems, AI-powered features, and production-ready applications that solve real-world problems.
