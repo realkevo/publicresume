@@ -50,7 +50,26 @@ Android developer with 4+ years of experience building scalable, high-performanc
 
 ### Eye – AI Offline Image Scanner
 Flutter Android app using TensorFlow Lite for offline image analysis, OCR, and similarity detection.  
-[Documentation](https://github.com/realkevo/EyeReadme/tree/main?tab=readme-ov-file) • [Download on Google Play](https://play.google.com/store/apps/details?id=com.toptech.eye) • [Uptodown](https://eye-offline-ai-image-scanner.en.uptodown.com/android)
+[Documentation](https://github.com/realkevo/EyeReadme/tree/main?tab=readme-ov-file) • 
+
+
+## Download
+
+Install the latest APK from the Play Store:
+
+- Eye on Google Play: https://play.google.com/store/apps/details?id=com.toptech.eye
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.toptech.eye">
+    <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="200"/>
+  </a>
+</p>
+
+Also available on Uptodown:
+
+- Eye on Uptodown: https://eye-offline-ai-image-scanner.en.uptodown.com/android
+
+(https://play.google.com/store/apps/details?id=com.toptech.eye) • [Uptodown](https://eye-offline-ai-image-scanner.en.uptodown.com/android)
 
 ### SMAP – Smart Management App
 Android (Java/XML) app for digitizing toll operations.
