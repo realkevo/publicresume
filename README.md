@@ -4,7 +4,7 @@
 [Email](mailto:kelvinthuranira591@gmail.com) • [Portfolio](https://kpotfolio.web.app) • [LinkedIn](https://www.linkedin.com/in/kelvin-thuranira-485844231) 
 
 ## About Me
-Android developer with 4+ years of experience building scalable, high-performance mobile applications using Flutter and native Android technologies. I specialize in offline-first systems, AI-powered features, and production-ready applications that solve real-world problems.
+Android developer with 4+ years of experience building scalable, high-performance mobile applications using Flutter and native Android technologies. I specialize in offline-first systems, AI-powere[...] 
 
 ---
 
@@ -50,7 +50,7 @@ Android developer with 4+ years of experience building scalable, high-performanc
 
 ### Eye – AI Offline Image Scanner
 Flutter Android app using TensorFlow Lite for offline image analysis, OCR, and similarity detection.  
-[Documentation](https://github.com/realkevo/EyeReadme/tree/main?tab=readme-ov-file) • [Download APK](https://apkpure.com/eye-image-scanner/com.toptech.eye)
+[Documentation](https://github.com/realkevo/EyeReadme/tree/main?tab=readme-ov-file) • [Download on Google Play](https://play.google.com/store/apps/details?id=com.toptech.eye) • [Uptodown](https://eye-offline-ai-image-scanner.en.uptodown.com/android)
 
 ### SMAP – Smart Management App
 Android (Java/XML) app for digitizing toll operations.
